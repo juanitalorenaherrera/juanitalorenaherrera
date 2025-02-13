@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Lenguajes: HTML5, CSS3, JavaScript Diseño Responsive: CSS Grid y Flexbox Frameworks y librerías: Bootstrap, AOS.js (animaciones) Despliegue: Netlify Herramientas: Figma (diseño de interfaces), Canva (banners)**
 
-- 📫 How to reach me **juanitaherrera846@gmail.com**
-
 - ⚡ Fun fact **🚀 Proyectos Destacados 1. CryptoGuard Descripción: Un proyecto para cifrar y descifrar mensajes. 2. Servicios de Ambulancia Descripción: Sitio web de servicios de emergencia con soporte 24/7. 3. Educrea Descripción: Plataforma educativa con recursos de aprendizaje interactivo.**
 
 <h3 align="left">Connect with me:</h3>
