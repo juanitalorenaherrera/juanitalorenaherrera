@@ -86,5 +86,4 @@ HOLA SOY JUANITA HERRERA</h1>
   </a>
 </p>
 
-![batman abajo](https://github.com/user-attachments/assets/ef1ebe8f-26c9-4ef7-bdba-85e3eaf8cff9)
-
+![batman abajo](https://github.com/user-attachments/assets/c9c3af8d-a5ef-498b-b85d-62953ade1455)
