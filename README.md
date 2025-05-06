@@ -1,4 +1,6 @@
-<h1 align="center">HOLA SOY JUANITA HERRERA</h1>
+
+<h1 align="center">![batman arriba](https://github.com/user-attachments/assets/86c853a2-0de9-4f0c-b59a-d692d09b2cfd)
+HOLA SOY JUANITA HERRERA</h1>
 <h3 align="center">
   "Programadora junior apasionada por la tecnología, el diseño UX/UI y los videojuegos. 
   Después de dedicar dos años como voluntaria, decidí seguir mi pasión por la programación. Actualmente, 
@@ -84,4 +86,4 @@
   </a>
 </p>
 
-
+![batman abajo](https://github.com/user-attachments/assets/0c4888b9-b1d3-4e2c-9d25-2ce39bc636f2)
