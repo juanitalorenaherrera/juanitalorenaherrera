@@ -84,8 +84,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="batman_arriba.webp" alt="Parte superior del Batman" width="400"/>
-  <br>
-  <img src="batman_abajo.webp" alt="Parte inferior del Batman" width="400"/>
-</p>
+
