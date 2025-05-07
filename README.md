@@ -1,4 +1,4 @@
-![batman arriba](https://github.com/user-attachments/assets/86c853a2-0de9-4f0c-b59a-d692d09b2cfd)
+
 <h1 align="center">
 HOLA SOY JUANITA HERRERA</h1>
 <h3 align="center">
@@ -85,5 +85,3 @@ HOLA SOY JUANITA HERRERA</h1>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
-
-![batman abajo](https://github.com/user-attachments/assets/c9c3af8d-a5ef-498b-b85d-62953ade1455)
