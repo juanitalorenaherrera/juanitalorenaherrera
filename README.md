@@ -11,7 +11,7 @@ HOLA SOY JUANITA HERRERA</h1>
 </h3>
 
 <!-- Proyectos -->
-<h3 align="center">🚀 Proyectos Destacados</h3>
+<h3 align="center"> Proyectos Destacados</h3>
 <ul>
   <li><strong>CryptoGuard</strong>: Un proyecto para cifrar y descifrar mensajes.</li>
   <li><strong>Servicios de Ambulancia</strong>: Sitio web de servicios de emergencia con soporte 24/7.</li>
@@ -19,12 +19,12 @@ HOLA SOY JUANITA HERRERA</h1>
 </ul>
 
 <p align="center">
-  - 👨‍💻 All of my projects are available at 
+  - All of my projects are available at 
   <a href="https://portfolio-web-git-main-portafoliowebs-projects.vercel.app/#inicio" target="_blank">Portfolio</a>
 </p>
 
 <!-- Habilidades -->
-<h3 align="center">💬 Mis Habilidades</h3>
+<h3 align="center"> Mis Habilidades</h3>
 <p align="center">
   Lenguajes: HTML5, CSS3, JavaScript<br>
   Diseño Responsive: CSS Grid, Flexbox<br>
@@ -33,7 +33,7 @@ HOLA SOY JUANITA HERRERA</h1>
 </p>
 
 <!-- Conéctate conmigo -->
-<h3 align="left">📬 Conéctate conmigo:</h3>
+<h3 align="left"> Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/juanita-herrera-329064277/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -44,7 +44,7 @@ HOLA SOY JUANITA HERRERA</h1>
 </p>
 
 <!-- Lenguajes -->
-<h3 align="left">🖥️ Lenguajes:</h3>
+<h3 align="left">  Lenguajes:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -61,7 +61,7 @@ HOLA SOY JUANITA HERRERA</h1>
 </p>
 
 <!-- Herramientas -->
-<h3 align="left">🛠️Frameworks y Herramientas:</h3>
+<h3 align="left"> Frameworks y Herramientas:</h3>
 <p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
