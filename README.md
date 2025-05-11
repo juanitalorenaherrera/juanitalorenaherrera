@@ -20,13 +20,12 @@ HOLA SOY JUANITA HERRERA</h1>
 
 <p align="center">
   - All of my projects are available at 
-  <a href=["https://portfolio-web-git-main-portafoliowebs-projects.vercel.app/#inicio"](https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/) target="_blank">Portfolio</a>
+  <a href=(https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/) target="_blank">Portfolio</a>
 </p>
 
 <!-- Habilidades -->
 <h3 align="center"> Mis Habilidades</h3>
 <p align="center">
-  Lenguajes: HTML5, CSS3, JavaScript<br>
   Diseño Responsive: CSS Grid, Flexbox<br>
   Frameworks y librerías: Bootstrap, AOS.js (animaciones)<br>
   Despliegue: Netlify
