@@ -20,7 +20,7 @@ HOLA SOY JUANITA HERRERA</h1>
 
 <p align="center">
   - All of my projects are available at 
-  <a href="https://portfolio-web-git-main-portafoliowebs-projects.vercel.app/#inicio" target="_blank">Portfolio</a>
+  <a href=["https://portfolio-web-git-main-portafoliowebs-projects.vercel.app/#inicio"](https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/) target="_blank">Portfolio</a>
 </p>
 
 <!-- Habilidades -->
