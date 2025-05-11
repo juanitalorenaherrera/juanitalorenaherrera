@@ -61,7 +61,7 @@ HOLA SOY JUANITA HERRERA</h1>
 </p>
 
 <!-- Herramientas -->
-<h3 align="left">🛠️ Herramientas:</h3>
+<h3 align="left">🛠️Frameworks y Herramientas:</h3>
 <p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
