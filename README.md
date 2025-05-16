@@ -4,7 +4,7 @@ HOLA SOY JUANITA HERRERA</h1>
 <h3 align="center">
   "Programadora junior apasionada por la tecnología, el diseño UX/UI y los videojuegos. 
   Después de dedicar dos años como voluntaria, decidí seguir mi pasión por la programación. Actualmente, 
-  estoy trabajando en proyectos como una app web de emergencias y plataformas educativas, utilizando tecnologías como HTML, CSS, JavaScript, React y Node.js. 
+  estoy trabajando en proyectos como una app web de emergencias y plataformas educativas, utilizando tecnologías como HTML, CSS, JavaScript,
   Mis habilidades incluyen trabajo en equipo, creatividad y resolución de problemas. 
   Estoy comprometida a seguir aprendiendo y mejorando para contribuir a proyectos innovadores. 
   Busco oportunidades que me permitan aplicar mis conocimientos y crecer profesionalmente."
