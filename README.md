@@ -15,7 +15,6 @@ HOLA SOY JUANITA HERRERA</h1>
 <ul>
   <li><strong>CryptoGuard</strong>: Un proyecto para cifrar y descifrar mensajes.</li>
   <li><strong>Servicios de Ambulancia</strong>: Sitio web de servicios de emergencia con soporte 24/7.</li>
-  <li><strong>Educrea</strong>: Plataforma educativa con recursos de aprendizaje interactivo.</li>
 </ul>
 
 <p align="center">
