@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy Juanita Herrera!</h1>
+<h1 align="center">👋 ¡Hola soy Juanita Herrera!</h1>
 
 <h3 align="center">
   Programadora junior apasionada por la tecnología, el diseño UX/UI y los videojuegos.  
@@ -29,12 +29,13 @@
 
 ---
 
-<h3 align="center">🛠️ Mis Habilidades</h3>
-
+<h3 align="center">🧰 Mi caja de herramientas</h3>
 <p align="center">
-  💻 Diseño Responsive: CSS Grid, Flexbox<br>
-  ⚙️ Frameworks y Librerías: Bootstrap, AOS.js<br>
-  ☁️ Despliegue: Netlify
+  🔧 HTML, CSS, JavaScript para construir desde cero.<br>
+  🎨 UX/UI para que todo se vea y se sienta bien.<br>
+  ⚙️ React para crear componentes dinámicos.<br>
+  🚀 Git y GitHub para llevar mis proyectos al mundo.<br>
+  🌐 Despliegue en Netlify y GitHub Pages.
 </p>
 
 ---
@@ -85,9 +86,6 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
