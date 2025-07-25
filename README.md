@@ -1,82 +1,95 @@
+<h1 align="center">👋 ¡Hola, soy Juanita Herrera!</h1>
 
-<h1 align="center">
-HOLA SOY JUANITA HERRERA</h1>
 <h3 align="center">
-  "Programadora junior apasionada por la tecnología, el diseño UX/UI y los videojuegos. 
-  Después de dedicar dos años como voluntaria, decidí seguir mi pasión por la programación. Actualmente, 
-  estoy trabajando en proyectos como una app web de emergencias y plataformas educativas, utilizando tecnologías como HTML, CSS, JavaScript,
-  Mis habilidades incluyen trabajo en equipo, creatividad y resolución de problemas. 
-  Estoy comprometida a seguir aprendiendo y mejorando para contribuir a proyectos innovadores. 
-  Busco oportunidades que me permitan aplicar mis conocimientos y crecer profesionalmente."
+  Programadora junior apasionada por la tecnología, el diseño UX/UI y los videojuegos.  
+  Después de dedicar dos años como voluntaria, decidí seguir mi pasión por la programación.  
+  Actualmente trabajo en proyectos como una app web de emergencias y plataformas educativas,  
+  utilizando tecnologías como HTML, CSS, JavaScript y React.  
+  Me destaco por mi creatividad, trabajo en equipo y resolución de problemas.  
+  Busco oportunidades que me permitan aplicar mis conocimientos y crecer profesionalmente.
 </h3>
 
-<!-- Proyectos -->
-<h3 align="center"> Proyectos Destacados</h3>
+---
+
+<h3 align="center">🚀 Proyectos Destacados</h3>
+
 <ul>
-  <li><strong>CryptoGuard</strong>: Un proyecto para cifrar y descifrar mensajes.</li>
-  <li><strong>Servicios de Ambulancia</strong>: Sitio web de servicios de emergencia con soporte 24/7.</li>
+  <li><strong>🛡️ <a href="https://juanitalorenaherrera.github.io/CryptoGuard-main/" target="_blank">CryptoGuard</a></strong>: Aplicación para cifrar y descifrar mensajes.  
+    🔗 <a href="https://github.com/juanitalorenaherrera/CryptoGuard-main" target="_blank">Ver código</a>
+  </li>
+  <li><strong>🚑 <a href="https://juanitalorenaherrera.github.io/JUEGO-SECRETO/" target="_blank">Juego Secreto</a></strong>: Juego para adivinar un número secreto.  
+    🔗 <a href="https://github.com/juanitalorenaherrera/JUEGO-SECRETO" target="_blank">Ver código</a>
+  </li>
 </ul>
 
 <p align="center">
-  - All of my projects are available at 
-  <a href=("https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/") target="_blank">Portfolio</a>
+  🔗 Todos mis proyectos están disponibles en mi  
+  <a href="https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/" target="_blank"><strong>Portafolio Web</strong></a>
 </p>
 
-<!-- Habilidades -->
-<h3 align="center"> Mis Habilidades</h3>
+---
+
+<h3 align="center">🛠️ Mis Habilidades</h3>
+
 <p align="center">
-  Diseño Responsive: CSS Grid, Flexbox<br>
-  Frameworks y librerías: Bootstrap, AOS.js (animaciones)<br>
-  Despliegue: Netlify
+  💻 Diseño Responsive: CSS Grid, Flexbox<br>
+  ⚙️ Frameworks y Librerías: Bootstrap, AOS.js<br>
+  ☁️ Despliegue: Netlify
 </p>
 
-<!-- Conéctate conmigo -->
-<h3 align="left"> Conéctate conmigo:</h3>
+---
+
+<h3 align="left">🤝 Conéctate conmigo:</h3>
+
 <p align="left">
-  <a href="https://linkedin.com/in/juanita-herrera-329064277/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/juanita-herrera-329064277/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/j9YmYg9e" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <a href="https://discord.gg/j9YmYg9e" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
 
-<!-- Lenguajes -->
-<h3 align="left">  Lenguajes:</h3>
+---
+
+<h3 align="left">🧠 Lenguajes:</h3>
+
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
 </p>
 
-<!-- Herramientas -->
-<h3 align="left"> Frameworks y Herramientas:</h3>
+---
+
+<h3 align="left">⚙️ Frameworks y Herramientas:</h3>
+
 <p align="left">
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
