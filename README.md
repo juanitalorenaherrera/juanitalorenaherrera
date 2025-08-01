@@ -35,7 +35,7 @@
   🎨 UX/UI para que todo se vea y se sienta bien.<br>
   ⚙️ React para crear componentes dinámicos.<br>
   🚀 Git y GitHub para llevar mis proyectos al mundo.<br>
-  🌐 Despliegue en Netlify y GitHub Pages.
+  🌐 Despliegue en GitHub Pages.
 </p>
 
 ---
