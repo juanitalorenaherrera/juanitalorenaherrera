@@ -111,14 +111,17 @@
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
          alt="Google Cloud" width="40" height="40"/>
-  </a>
   <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"
-         alt="Canva" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"
+       alt="Canva" width="40" height="40"/>
+</a>
+
   </a>
-  <a href="https://inkscape.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/inkscape.svg"
-         alt="Inkscape" width="40" height="40"/>
+<a href="https://inkscape.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/inkscape.svg"
+       alt="Inkscape" width="40" height="40"/>
+</a>
+
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
