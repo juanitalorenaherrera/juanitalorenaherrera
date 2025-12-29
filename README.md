@@ -1,99 +1,84 @@
-🟦🟩🟦🟩🟦🟩🟦🟩🟦🟩🟦🟩
-🖥️  Windows XP Portfolio — Booting...
-🟦🟩🟦🟩🟦🟩🟦🟩🟦🟩🟦🟩
+🟦 Windows XP Portfolio — Ready
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-👤 User: Juanita Herrera
-💻 Role: Programadora Junior
-🎮 Interests: Tecnología · UX/UI · Videojuegos
-📍 Location: Colombia
-⏱️ Status: Online
+👤 Usuario: Juanita Herrera  
+💻 Rol: Programadora Junior  
+🎮 Intereses: Tecnología · UX/UI · Videojuegos  
+📍 Ubicación: Colombia  
 
-────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📂 AboutMe.exe
-
+📁 AboutMe.exe  
 Hola 👋 soy Juanita Herrera.
 
 Programadora junior apasionada por la tecnología,
 el diseño UX/UI y los videojuegos.
 
-Después de dos años como voluntaria,
-decidí seguir mi vocación por la programación.
-Hoy desarrollo proyectos como aplicaciones web
+Tras dos años de voluntariado,
+decidí seguir mi camino en la programación.
+Actualmente desarrollo aplicaciones web
 de emergencias y plataformas educativas.
 
-Trabajo con:
-HTML · CSS · JavaScript · React
+Trabajo con HTML, CSS, JavaScript y React.
+Me definen la creatividad, el trabajo en equipo
+y la resolución de problemas.
 
-Me caracterizo por la creatividad,
-el trabajo en equipo y la resolución de problemas.
+Busco oportunidades para aprender,
+aportar valor y crecer profesionalmente.
 
-Busco oportunidades para crecer,
-aprender y construir software útil y bien hecho.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-────────────────────────────────
+🧪 Proyectos.exe  
 
-🧪 ProyectosDestacados.exe
+🛡️ **CryptoGuard**  
+Aplicación para cifrar y descifrar mensajes.  
+🌐 Demo:  
+https://juanitalorenaherrera.github.io/CryptoGuard-main/  
+💾 Código:  
+https://github.com/juanitalorenaherrera/CryptoGuard-main  
 
-🛡️ CryptoGuard
-Aplicación para cifrar y descifrar mensajes.
-🌐 Demo:
-https://juanitalorenaherrera.github.io/CryptoGuard-main/
-💾 Código:
-https://github.com/juanitalorenaherrera/CryptoGuard-main
+🚑 **Juego Secreto**  
+Juego interactivo para adivinar un número.  
+🌐 Demo:  
+https://juanitalorenaherrera.github.io/JUEGO-SECRETO/  
+💾 Código:  
+https://github.com/juanitalorenaherrera/JUEGO-SECRETO  
 
-🚑 Juego Secreto
-Juego interactivo para adivinar un número secreto.
-🌐 Demo:
-https://juanitalorenaherrera.github.io/JUEGO-SECRETO/
-💾 Código:
-https://github.com/juanitalorenaherrera/JUEGO-SECRETO
-
-🔗 Más proyectos en mi portafolio:
+🔗 Más proyectos:  
 https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
 
-────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🧰 Toolbox.txt
+🧰 Toolbox.txt  
 
-🔧 HTML · CSS · JavaScript
-🎨 UX/UI Design
-⚙️ React
-🚀 Git & GitHub
-🌐 GitHub Pages
+🔧 HTML · CSS · JavaScript  
+🎨 UX/UI  
+⚙️ React  
+🚀 Git & GitHub  
+🌐 GitHub Pages  
 
-Construyo desde cero,
-cuido los detalles
-y priorizo la experiencia del usuario.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-────────────────────────────────
+🤝 Contacto.exe  
 
-🤝 Contacto.exe
+🔗 LinkedIn  
+https://linkedin.com/in/juanita-herrera-329064277/  
 
-🔗 LinkedIn:
-https://linkedin.com/in/juanita-herrera-329064277/
+💬 Discord  
+https://discord.gg/j9YmYg9e  
 
-💬 Discord:
-https://discord.gg/j9YmYg9e
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-────────────────────────────────
+🧠 Lenguajes  
+HTML5 · CSS3 · JavaScript · React · C#
 
-🧠 Lenguajes.dll
-- HTML5
-- CSS3
-- JavaScript
-- React
-- C#
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-────────────────────────────────
+⚙️ Herramientas  
+Git · Google Cloud · Canva · Inkscape  
 
-⚙️ Frameworks & Tools.dll
-- Git
-- Google Cloud
-- Canva
-- Inkscape
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-────────────────────────────────
+🔒 System Message  
+“Código claro. Diseño honesto. Impacto real.”
 
-🔒 System Message:
-"Simple code. Clear ideas. Real impact."
