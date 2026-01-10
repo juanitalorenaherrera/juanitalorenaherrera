@@ -1,4 +1,4 @@
-🟦 Windows XP Portfolio — Ready
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👤 Usuario: Juanita Herrera  
