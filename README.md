@@ -1,4 +1,3 @@
-<h1 align="left">✨ Bienvenidos a mi página</h1>
 
 ###
 
