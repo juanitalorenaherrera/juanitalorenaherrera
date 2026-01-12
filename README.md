@@ -1,67 +1,45 @@
-<h1 align="center">Hey 👋 What’s up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFD5&center=true&vCenter=true&width=650&lines=Juanita+Herrera;Programadora+Junior;Desarrollo+Web+%7C+UX%2FUI;Aprendiendo%2C+creando+y+mejorando+cada+día" />
-</p>
+###
 
----
+<p align="left">Mi nombre es Juanita Herrera, soy programadora junior y vivo en Colombia.</p>
 
-## 👤 About Me
+###
 
-```txt
-Usuario: Juanita Herrera
-Rol: Programadora Junior
-Ubicación: Colombia
+<h2 align="left">SOBRE MI</h2>
 
-Intereses:
-• Tecnología
-• UX / UI
-• Videojuegos
-Hola 👋
-Soy Juanita Herrera, programadora junior apasionada por la tecnología,
-el diseño UX/UI y el desarrollo de experiencias interactivas.
+###
 
-Después de dos años de voluntariado, decidí enfocar mi camino en la programación.
-Actualmente desarrollo aplicaciones web de emergencias
-y plataformas educativas.
+<p align="left">✨ Creando bugs desde 2023  <br><br>📚 Actualmente aprendiendo:<br>Cómo escribir mejor código hoy que ayer.<br><br>🎯 Objetivos:<br>Aprender, construir proyectos reales  <br>y convertirme en una desarrolladora sólida y confiable.<br><br>🎲 Dato curioso:<br>Si juego algo, seguro intento imaginar cómo lo programaron.</p>
 
-Me definen la creatividad, el trabajo en equipo
-y la resolución de problemas con impacto real.
+###
 
-Busco oportunidades para aprender, aportar valor
-y crecer profesionalmente.
-🧰 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" height="60" /> </div>
-🧪 Proyectos Destacados
+<h2 align="left">I code with</h2>
 
-🛡️ CryptoGuard
-Aplicación para cifrar y descifrar mensajes.
-🌐 Demo
-https://juanitalorenaherrera.github.io/CryptoGuard-main/
+###
 
-💾 Código
-https://github.com/juanitalorenaherrera/CryptoGuard-main
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-🚑 Juego Secreto
-Juego interactivo para adivinar un número.
-🌐 Demo
-https://juanitalorenaherrera.github.io/JUEGO-SECRETO/
-
-💾 Código
-https://github.com/juanitalorenaherrera/JUEGO-SECRETO
-
-🔗 Más proyectos
-https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
-
-📚 Actualmente Aprendiendo
-
-• JavaScript avanzado
-• Buenas prácticas en React
-• Backend básico
-• Diseño centrado en el usuario
-
-🌐 Conecta Conmigo
-<div align="center"> <a href="https://linkedin.com/in/juanita-herrera-329064277/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" /> </a> <a href="https://discord.gg/j9YmYg9e"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" /> </a> </div>
-📊 GitHub Stats
-<div align="center"> <img src="https://streak-stats.demolab.com?user=juanitalorenaherrera&theme=dracula" height="150" /> </div>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ffd5,100:0f2027&height=120&section=footer" /> </p>
+###
