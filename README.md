@@ -65,23 +65,3 @@ https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
 📊 GitHub Stats
 <div align="center"> <img src="https://streak-stats.demolab.com?user=juanitalorenaherrera&theme=dracula" height="150" /> </div>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ffd5,100:0f2027&height=120&section=footer" /> </p>
-
-
----
-
-### 🧠 Nota honesta
-Este README:
-- ✅ Se ve profesional  
-- ✅ Tiene movimiento sin exagerar  
-- ✅ Representa bien tu nivel real  
-- ✅ No promete humo, promete crecimiento  
-
-Cuando quieras, lo siguiente puede ser:
-- versión **en inglés**
-- versión **más minimal**
-- versión **optimizada para recruiters**
-- o adaptar el tono a **Full Stack / Frontend**
-
-Tú decides.  
-Buen trabajo — esto ya juega en primera 💻✨
-
