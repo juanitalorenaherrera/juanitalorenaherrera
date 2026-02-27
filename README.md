@@ -1,69 +1,71 @@
+<h1 align="center">Hola 👋, soy Juanita Herrera</h1>
+<h3 align="center">Desarrolladora Web Junior | JavaScript • React • .NET</h3>
 
-###
-
-<p align="left">
-Mi nombre es <strong>Juanita Herrera</strong>, soy <strong>programadora junior</strong> y vivo en <strong>Colombia</strong> 🇨🇴.<br>
-Me apasiona la tecnología, el desarrollo web y el diseño centrado en el usuario.
+<p align="center">
+Desarrolladora colombiana 🇨🇴 apasionada por la tecnología, el desarrollo web  
+y el diseño centrado en el usuario.
 </p>
 
-###
+---
 
-<h2 align="left">🧠 Sobre mí</h2>
+## 🧠 Sobre mí
 
-###
+✨ Creando bugs desde 2023 y aprendiendo de cada uno en el camino.  
 
-<p align="left">
-✨ <strong>Creando bugs desde 2023</strong>, aprendiendo de cada uno en el camino.<br><br>
+📚 Actualmente enfocada en escribir mejor código cada día,  
+profundizando en **JavaScript, React y buenas prácticas**.  
 
-📚 <strong>Actualmente aprendiendo:</strong><br>
-Cómo escribir mejor código hoy que ayer, profundizando en JavaScript, React  
-y buenas prácticas de desarrollo web.<br><br>
+🎯 Objetivo: construir proyectos reales con impacto y convertirme  
+en una desarrolladora sólida, responsable y confiable.  
 
-🎯 <strong>Objetivos:</strong><br>
-Aprender de forma constante, construir proyectos reales con impacto  
-y convertirme en una desarrolladora sólida, responsable y confiable.<br><br>
-
-🎲 <strong>Dato curioso:</strong><br>
-Si juego algo, seguro intento imaginar cómo lo programaron,  
+🎲 Dato curioso: cuando juego algo, pienso cómo lo programaron  
 desde la lógica hasta la experiencia del usuario.
+
+---
+
+## 🚀 Proyectos Destacados
+
+🐾 **PetPay**  
+💳 Plataforma frontend para gestión de pagos de servicios para mascotas  
+🔗 https://frontend-pet-pay.vercel.app/
+
+🎙️ **Podcast Web**  
+🎧 Aplicación web para reproducir y gestionar contenido tipo podcast  
+🔗 https://podcast-three-blush.vercel.app/
+
+🧠 **Juego de Memoria**  
+🎮 Juego interactivo desarrollado con JavaScript  
+🔗 https://juego-de-memoria-theta.vercel.app/
+
+🌐 **Portafolio Web**  
+💼 Mi sitio personal con proyectos y experiencia  
+🔗 https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
+
+---
+
+## 💻 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,dotnet,git,github,mongodb,vscode" />
 </p>
 
-###
+---
 
-<h2 align="left">💻 Tecnologías y herramientas</h2>
+## 📊 Estadísticas
 
-###
-
-<p align="left">
-Estas son algunas de las tecnologías y herramientas con las que trabajo  
-y continúo fortaleciendo día a día:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanitalorenaherrera&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanitalorenaherrera&theme=radical" />
 </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo" />
-</div>
+---
 
-###
+## 📫 Contacto
 
-<p align="left">
-Siempre estoy abierta a aprender nuevas tecnologías  
-y a mejorar tanto en lo técnico como en lo humano.
-</p>
+📧 juanitaherrera846@gmail.com  
+💼 LinkedIn: (agrega tu link aquí)  
+🌐 Portafolio: https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
+
+---
+
+⭐ Siempre aprendiendo, siempre construyendo.
