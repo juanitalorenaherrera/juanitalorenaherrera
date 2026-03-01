@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Juanita Herrera</h1>
+<h1 align="center">Hola  soy Juanita Herrera</h1>
 <h3 align="center">Desarrolladora Web Junior | JavaScript • React • .NET</h3>
 
 <p align="center">
