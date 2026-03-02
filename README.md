@@ -63,7 +63,9 @@ desde la lógica hasta la experiencia del usuario.
 ## 📫 Contacto
 
 📧 juanitaherrera846@gmail.com  
+
 💼 LinkedIn: https://www.linkedin.com/in/juanita-herrera-329064277/
+
 🌐 Portafolio: https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
 
 ---
