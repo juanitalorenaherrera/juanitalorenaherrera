@@ -60,14 +60,24 @@ Actualmente formo parte del equipo de **Kronosoft**, donde participo en la capta
 - 🚀 Contribución al fortalecimiento de la presencia digital y al crecimiento de **Kronosoft**.
 
 ---
-
 # 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dotnet,cs,mongodb,git,github,vscode,figma&perline=6"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-</div>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+
+</p>
 
 ---
 
