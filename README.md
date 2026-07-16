@@ -1,21 +1,54 @@
-````markdown
 <div align="center">
 
 # 👋 ¡Hola! Soy Juanita Herrera
 
 ### 💻 Desarrolladora Web Junior | JavaScript • React • .NET
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrolladora+Frontend+y+.NET;Siempre+aprendiendo+nuevas+tecnologías;Construyendo+proyectos+con+pasión+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrolladora+Web+Junior;JavaScript+•+React+•+.NET;Siempre+aprendiendo+nuevas+tecnologías;Construyendo+proyectos+con+pasión+🚀" alt="Typing SVG" />
 
-<p>
-Desarrolladora colombiana 🇨🇴 apasionada por la tecnología, el desarrollo web y el diseño de interfaces modernas.
 <br>
-Me gusta transformar ideas en aplicaciones funcionales utilizando buenas prácticas y aprendiendo algo nuevo todos los días.
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=juanitalorenaherrera&label=Visitas&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=juanitalorenaherrera&label=Visitas&color=blueviolet&style=for-the-badge" />
 
 </div>
+
+---
+
+## 👩‍💻 Sobre mí
+
+```javascript
+const juanita = {
+  nombre: "Juanita Herrera",
+  pais: "Colombia 🇨🇴",
+  rol: "Desarrolladora Web Junior",
+
+  tecnologias: [
+    "JavaScript",
+    "React",
+    ".NET",
+    "C#",
+    "Node.js",
+    "MongoDB"
+  ],
+
+  aprendiendo: [
+    "React",
+    ".NET",
+    "APIs REST",
+    "SQL"
+  ],
+
+  hobbies: [
+    "Programar",
+    "Diseño Web",
+    "Leer",
+    "Podcast de Tecnología"
+  ],
+
+  objetivo:
+    "Convertirme en una desarrolladora Full Stack y construir proyectos con impacto."
+}
+```
 
 ---
 
@@ -23,93 +56,39 @@ Me gusta transformar ideas en aplicaciones funcionales utilizando buenas prácti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=js" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=react" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=dotnet" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=cs" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dotnet,cs,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-# 👩‍💻 Sobre mí
-
-```javascript
-const juanita = {
-    ubicación: "Colombia 🇨🇴",
-    cargo: "Desarrolladora Web Junior",
-    aprendiendo: [
-        "React",
-        ".NET",
-        "JavaScript",
-        "APIs",
-        "SQL"
-    ],
-    intereses: [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "UI/UX",
-        "Tecnología"
-    ],
-    meta: "Convertirme en una desarrolladora Full Stack."
-}
-```
-
-✨ Construyendo proyectos desde 2023.
-
-📚 Aprendiendo continuamente para escribir código más limpio y mantenible.
-
-💡 Me gusta entender cómo funcionan las aplicaciones desde el backend hasta la experiencia del usuario.
-
-🚀 Siempre abierta a nuevos retos y oportunidades para seguir creciendo.
-
----
-
 # 🌟 Proyectos
 
-## 🐾 PetPay
+### 🐾 PetPay
 
-💳 Plataforma para la gestión de pagos de servicios para mascotas.
+Plataforma para la gestión de pagos de servicios para mascotas.
 
 🔗 https://frontend-pet-pay.vercel.app/
 
 ---
 
-## 🎙️ Podcast Web
+### 🎙️ Podcast Web
 
-Aplicación web para reproducir contenido tipo podcast.
+Aplicación para escuchar y administrar podcasts.
 
 🔗 https://podcast-three-blush.vercel.app/
 
 ---
 
-## 🧠 Juego de Memoria
+### 🧠 Juego de Memoria
 
-Juego desarrollado con JavaScript utilizando manipulación del DOM.
+Juego interactivo desarrollado con JavaScript.
 
 🔗 https://juego-de-memoria-theta.vercel.app/
 
 ---
 
-## 🌐 Portafolio
+### 🌐 Portafolio
 
 Mi sitio web donde comparto proyectos y experiencia.
 
@@ -117,25 +96,31 @@ Mi sitio web donde comparto proyectos y experiencia.
 
 ---
 
-# 📊 Estadísticas
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanitalorenaherrera&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=juanitalorenaherrera&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitalorenaherrera&layout=compact&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=juanitalorenaherrera&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitalorenaherrera&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Logros
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=juanitalorenaherrera&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Trofeos
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=juanitalorenaherrera&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=juanitalorenaherrera&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -145,13 +130,13 @@ Mi sitio web donde comparto proyectos y experiencia.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanitalorenaherrera&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanitalorenaherrera&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 📬 Contacto
+# 📫 Contacto
 
 <div align="center">
 
@@ -164,7 +149,7 @@ Mi sitio web donde comparto proyectos y experiencia.
 </a>
 
 <a href="https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/">
-<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 </div>
@@ -173,10 +158,8 @@ Mi sitio web donde comparto proyectos y experiencia.
 
 <div align="center">
 
-### 💙 "Nunca dejes de aprender; cada línea de código es un paso más hacia la desarrolladora que quieres ser."
+### 💙 "Siempre aprendiendo, siempre construyendo."
 
 ⭐ Gracias por visitar mi perfil.
 
 </div>
-````
-
