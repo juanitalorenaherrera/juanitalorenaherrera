@@ -1,7 +1,4 @@
 <div align="center">
-
-# 👋 ¡Hola! Soy Juanita Herrera
-
 ### 💻 Frontend Developer | Business Development | Kronosoft
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hola%2C+soy+Juanita+Herrera;%F0%9F%92%BB+Frontend+Developer+%7C+Kronosoft;%F0%9F%8E%A8+Creando+interfaces+modernas+y+funcionales;%F0%9F%A4%9D+Conectando+tecnolog%C3%ADa+y+negocio;%E2%9C%A8+Siempre+lista+para+el+pr%C3%B3ximo+desaf%C3%ADo" />
