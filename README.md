@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./assets/logo.png" width="180" alt="Juanita Herrera Logo"/>
+
 # 👋 ¡Hola! Soy Juanita Herrera
 
 ### 💻 Frontend Developer | Business Development | Kronosoft
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+JavaScript+%7C+.NET;Construyendo+experiencias+digitales;Siempre+aprendiendo+y+creciendo+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+JavaScript+%7C+.NET;Creando+experiencias+digitales;Transformando+ideas+en+soluciones"/>
 
 <p>
 
@@ -20,8 +22,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages"/>
+<a href="https://portafolio-web-ivory-nu.vercel.app/#inicio">
+<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -32,11 +34,11 @@
 
 # 👩‍💻 Sobre mí
 
-Soy desarrolladora Frontend apasionada por crear aplicaciones web modernas, accesibles y funcionales. Me gusta transformar ideas en soluciones digitales que ofrezcan una excelente experiencia al usuario.
+Soy desarrolladora Frontend apasionada por crear aplicaciones web modernas, intuitivas y funcionales. Disfruto transformar ideas en soluciones digitales que brinden una excelente experiencia al usuario.
 
-Actualmente formo parte del equipo de **Kronosoft**, donde combino el desarrollo Frontend con actividades de captación de clientes, apoyo administrativo y diseño de interfaces, contribuyendo al crecimiento de la empresa y al desarrollo de proyectos tecnológicos.
+Actualmente formo parte del equipo de **Kronosoft**, donde participo en la captación de clientes, apoyo en procesos administrativos, desarrollo Frontend y diseño de interfaces, contribuyendo al fortalecimiento de la presencia digital y al crecimiento de la empresa.
 
-Siempre estoy aprendiendo nuevas tecnologías, mejorando mis habilidades y buscando construir productos que generen valor para las personas y las empresas.
+Me motiva trabajar en equipo, asumir nuevos retos y seguir desarrollando proyectos que generen valor tanto para las empresas como para sus usuarios.
 
 ---
 
@@ -57,11 +59,11 @@ Actualmente formo parte del equipo de **Kronosoft**, donde participo en la capta
 - 🤝 Captación, seguimiento y atención de clientes potenciales.
 - 📋 Apoyo en procesos administrativos y organización de proyectos.
 - 💡 Participación en el análisis de requerimientos y propuesta de soluciones tecnológicas.
-- 🚀 Contribución al fortalecimiento de la presencia digital y al crecimiento de Kronosoft.
+- 🚀 Contribución al fortalecimiento de la presencia digital de Kronosoft.
 
 ---
 
-# 🚀 Tecnologías
+# 🛠️ Tecnologías
 
 <div align="center">
 
@@ -71,135 +73,111 @@ Actualmente formo parte del equipo de **Kronosoft**, donde participo en la capta
 
 ---
 
----
+# 🚀 Proyectos Destacados
 
-# 🌟 Proyectos
+<table>
 
-## 🐾 PetPay
+<tr>
 
-Aplicación web para la gestión de pagos de servicios para mascotas.
+<td width="50%">
+
+<h3 align="center">🐾 PetPay</h3>
+
+<p align="center">
+
+<img src="./assets/petpay.png" width="100%"/>
+
+</p>
+
+Sistema web para la gestión de pagos de servicios para mascotas.
 
 **Tecnologías**
 
-React · JavaScript · CSS
+React • JavaScript • CSS
 
 🔗 https://frontend-pet-pay.vercel.app/
 
----
+</td>
 
-## 🎙 Podcast Web
+<td width="50%">
 
-Aplicación para reproducir y administrar contenido tipo podcast.
+<h3 align="center">🌐 Portafolio Web</h3>
+
+<p align="center">
+
+<img src="./assets/portfolio.png" width="100%"/>
+
+</p>
+
+Mi sitio web profesional donde comparto mis proyectos, experiencia y tecnologías.
+
+🔗 https://portafolio-web-ivory-nu.vercel.app/#inicio
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<h3 align="center">🎙 Podcast Web</h3>
+
+<p align="center">
+
+<img src="./assets/podcast.png" width="100%"/>
+
+</p>
+
+Aplicación web para reproducir y administrar contenido tipo podcast.
 
 🔗 https://podcast-three-blush.vercel.app/
 
----
+</td>
 
-## 🧠 Juego de Memoria
+<td>
+
+<h3 align="center">🧠 Juego de Memoria</h3>
+
+<p align="center">
+
+<img src="./assets/memoria.png" width="100%"/>
+
+</p>
 
 Juego interactivo desarrollado con JavaScript.
 
 🔗 https://juego-de-memoria-theta.vercel.app/
 
----
+</td>
 
-## 🌐 Portafolio
+</tr>
 
-Sitio web donde comparto mis proyectos, experiencia y tecnologías.
-
-🔗 https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/
+</table>
 
 ---
 
-# 📈 Estadísticas de GitHub
+# 🏢 Sobre Kronosoft
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://kronosoft.vercel.app/favicon.ico" width="80"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+## Soluciones digitales para empresas
 
 </div>
 
----
+En **Kronosoft** desarrollamos soluciones tecnológicas enfocadas en las necesidades de cada cliente. Nuestro objetivo es crear productos digitales modernos, funcionales y escalables que impulsen el crecimiento de empresas y emprendedores.
 
-# 🏆 Logros
+### Servicios
 
-<div align="center">
+- 🌐 Desarrollo de sitios web.
+- 💻 Aplicaciones web personalizadas.
+- 🎨 Diseño de interfaces (UI/UX).
+- ⚙️ Desarrollo Frontend y Backend.
+- 🚀 Transformación digital para empresas.
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 💡 Lo que puedo aportar
-
-✅ Desarrollo de aplicaciones web modernas.
-
-✅ Interfaces responsivas y accesibles.
-
-✅ Desarrollo Frontend con React y JavaScript.
-
-✅ Integración con APIs REST.
-
-✅ Diseño orientado a la experiencia del usuario.
-
-✅ Trabajo en equipo y colaboración multidisciplinaria.
-
-✅ Captación y atención de clientes.
-
-✅ Organización y apoyo en procesos administrativos.
-
-✅ Aprendizaje continuo y adaptación a nuevas tecnologías.
-
----
-
-# ☕ Más sobre mí
-
-```javascript
-const juanita = {
-    location: "Colombia 🇨🇴",
-
-    company: "Kronosoft",
-
-    role: "Frontend Developer",
-
-    languages: [
-        "JavaScript",
-        "C#",
-        "HTML",
-        "CSS"
-    ],
-
-    frameworks: [
-        "React",
-        ".NET"
-    ],
-
-    currentlyLearning: [
-        "TypeScript",
-        "Next.js",
-        "Arquitectura Frontend",
-        "Clean Code"
-    ],
-
-    passions: [
-        "Desarrollo Web",
-        "UI/UX",
-        "Tecnología",
-        "Aprendizaje continuo"
-    ],
-
-    motto: "Siempre aprendiendo. Siempre construyendo."
-}
-```
+🔗 **Sitio web:** https://kronosoft.vercel.app/
 
 ---
 
@@ -208,19 +186,27 @@ const juanita = {
 <div align="center">
 
 <a href="mailto:juanitaherrera846@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/juanita-herrera-329064277/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
-<a href="https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/](https://portafolio-web-ivory-nu.vercel.app/#inicio)">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages"/>
+<a href="https://portafolio-web-ivory-nu.vercel.app/#inicio">
+
+<img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge"/>
+
 </a>
 
 <a href="https://kronosoft.vercel.app/">
+
 <img src="https://img.shields.io/badge/Kronosoft-6C63FF?style=for-the-badge"/>
+
 </a>
 
 </div>
@@ -229,8 +215,8 @@ const juanita = {
 
 <div align="center">
 
-## 💜 "Construyendo soluciones digitales, un proyecto a la vez."
+## 💜 Gracias por visitar mi perfil
 
-⭐ Gracias por visitar mi perfil.
+*"Cada línea de código es una oportunidad para crear soluciones que generen un impacto positivo."*
 
 </div>
