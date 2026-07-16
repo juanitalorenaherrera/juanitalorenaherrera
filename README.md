@@ -71,14 +71,6 @@ Actualmente formo parte del equipo de **Kronosoft**, donde participo en la capta
 
 ---
 
-# 📚 Actualmente aprendiendo
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,postgres,docker"/>
-
-</div>
-
 ---
 
 # 🌟 Proyectos
@@ -223,7 +215,7 @@ const juanita = {
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/">
+<a href="https://juanitalorenaherrera.github.io/PORTFOLIO-WEB/](https://portafolio-web-ivory-nu.vercel.app/#inicio)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages"/>
 </a>
 
