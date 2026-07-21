@@ -3,27 +3,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hola%2C+soy+Juanita+Herrera;%F0%9F%92%BB+Frontend+Developer+%7C+Kronosoft;%F0%9F%8E%A8+Creando+interfaces+modernas+y+funcionales;%F0%9F%A4%9D+Conectando+tecnolog%C3%ADa+y+negocio;%E2%9C%A8+Siempre+lista+para+el+pr%C3%B3ximo+desaf%C3%ADo" />
 
-<a href="https://kronosoft.vercel.app/">
-<img src="https://img.shields.io/badge/Kronosoft-6C63FF?style=for-the-badge"/>
-</a>
-
-<a href="mailto:juanitaherrera846@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/juanita-herrera-329064277/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://portafolio-web-ivory-nu.vercel.app/#inicio">
-<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
-</div>
-
----
 
 # 👩‍💻 Sobre mí
 
