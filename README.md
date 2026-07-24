@@ -27,7 +27,6 @@ Actualmente formo parte del equipo de **Kronosoft**, donde participo en la capta
 - 💻 Desarrollo de interfaces web modernas, intuitivas y responsivas.
 - ⚛️ Desarrollo Frontend con **JavaScript**, **React**, **HTML** y **CSS**.
 - 🎨 Diseño e implementación de interfaces centradas en la experiencia del usuario (UI/UX).
-- 🔗 Integración de interfaces con APIs REST.
 - 🤝 Captación y seguimiento de clientes potenciales.
 - 📋 Apoyo en procesos administrativos y organización de proyectos.
 - 💡 Participación en el análisis de requerimientos y propuesta de soluciones tecnológicas.
